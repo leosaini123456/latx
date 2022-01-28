@@ -1,0 +1,26 @@
+.section4 
+{
+    background-color: whitesmoke;
+    padding:50px 0px;
+}
+.section4 .container>h2
+{
+    font-size: 35px;
+    font-weight: 600;
+}
+.section4 .container>p
+{
+    font-size: 18px;
+}
+.section4 .whyus
+{
+    padding:20px 0px;
+}
+.section4 .whyus h2
+{
+    font-size: 22px;
+}
+.section4 .whyus p
+{
+    font-size: 18px;
+}

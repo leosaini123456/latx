@@ -1,0 +1,23 @@
+.tablist
+{
+    margin-top:50px;
+   
+    display: flex;
+    justify-content: space-between;
+}
+
+.tablist .tab
+{
+    font-size: 22px;
+    list-style: none;
+    display: inline-block;
+    font-weight: 500;
+    cursor: pointer;
+}
+.tablist .tab.active
+{
+    border-bottom:4px solid #3052E3;
+    padding-bottom: 10px;
+    color:#3052E3;
+}
+

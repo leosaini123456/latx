@@ -1,0 +1,62 @@
+
+.courseCard
+{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding:30px 0px;
+
+}
+.coursebox
+{
+    box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.198);
+    margin:20px;
+    width: 350px;
+    
+}
+.coursecardlink
+{
+    text-align: center;
+    padding:10px;
+}
+.courseboximg
+{
+    width: 100%;
+    height: 150px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-image: url("/public/img/singlecoursepage.webp");
+
+}
+.courseboximg h2
+{
+    font-size: 30px;
+    color:white;
+    font-weight: 500;
+}
+.coursetitle
+{
+    font-size: 30px;
+    padding:10px 0px;
+    text-align: center;
+}
+.Coursecardcontent
+{
+    font-size: 20px;
+    color:rgb(71, 71, 71);
+    text-align: center;
+}
+.coursebox a
+{
+    display: inline-block;
+    padding:15px 30px;
+    border:1px solid #3052E3;
+    text-align: center;
+    margin:10px auto;
+    width: 100%;
+    text-decoration: none;
+    color:#3052E3;
+    font-size: 18px;
+
+}
